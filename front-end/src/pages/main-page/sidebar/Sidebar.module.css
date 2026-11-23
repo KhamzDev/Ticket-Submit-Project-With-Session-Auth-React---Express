@@ -1,0 +1,38 @@
+.container{
+    width: 300px;
+    height: 100%;
+    background-color: hsl(185, 5%, 55%);
+
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+.priority{
+    width: 100%;
+    height: 200px;
+    margin-top: 100px;
+    border-top: 2px solid grey;
+    border-bottom: 2px solid grey;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.priority h2{
+    width: 100%;
+    text-align: start;
+    padding-left: 35px;
+}
+
+.priority div{
+    width: 100%;
+    padding-left: 50px;
+    font-size: 20px;
+
+    display: flex;
+    justify-content: flex-start;
+    gap: 5px;
+}
