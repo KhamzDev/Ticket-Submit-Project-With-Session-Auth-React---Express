@@ -6,7 +6,7 @@
 
 ## Things to know
 
-If you login as a agent, you will see all the tickets, but if you login as a normal user you will only be able to see the tickets of the same company as yourself. 
+If you log in as an agent, you will see all the tickets, but if you login as a normal user you will only be able to see the tickets of yout own company. 
 You will find the login credentials in backend/src/data/mockUsers.mjs
 
 ## 🛠️ How to Setup and Run
